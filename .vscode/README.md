@@ -1,1 +1,0 @@
-An interactive to-do list application built with HTML, CSS, and JavaScript, featuring task management with checkboxes, delete functionality, and persistent storage using localStorage.
